@@ -1,0 +1,45 @@
+  .image{
+	  text-align:center;
+  }
+
+  .description {
+	font-family: 'Jua', sans-serif;
+	font-size: 20px;
+	width: 70%;
+	border-radius: 10px;
+	border-color: #036;
+	border-width: medium;
+	border-style: solid;
+	text-align:center;
+	margin:auto;
+	padding: 10px;
+	margin-bottom: 20px;
+	margin-top:20px;
+  }
+
+  a {
+	font-family: 'Jua', sans-serif;
+	font-size: 18px;
+	text-decoration: none;
+	outline: none;
+	text-align:center;
+}
+
+h2 {
+	font-family: 'Jua', sans-serif;
+	font-size: 38px;
+	margin-top:40px;
+	text-align: center;
+}
+
+.description_header {
+	font-family: 'Jua', sans-serif;
+	font-size: 20px;
+	width: 70%;
+	background-color:#e6f7ff;
+	border-radius: 10px;
+	text-align:center;
+	margin:auto;
+	padding: 10px;
+	margin-bottom: 20px;
+  }
